@@ -1,0 +1,1464 @@
+{
+  "AI Engineer": {
+    "Beginner": [
+      "SQL",
+      "JavaScript",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Flask",
+      "React",
+      "MongoDB"
+    ],
+    "Advanced": [
+      "Cybersecurity",
+      "CI/CD",
+      "Terraform"
+    ]
+  },
+  "AI Research Scientist": {
+    "Beginner": [
+      "Excel",
+      "Git",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Firebase",
+      "React",
+      "Java"
+    ],
+    "Advanced": [
+      "GraphQL",
+      "Cybersecurity",
+      "Kubernetes"
+    ]
+  },
+  "API Developer": {
+    "Beginner": [
+      "Excel",
+      "Linux",
+      "HTML"
+    ],
+    "Intermediate": [
+      "MongoDB",
+      "PostgreSQL",
+      "Java"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "Spring Boot",
+      "Terraform"
+    ]
+  },
+  "Accessibility Specialist": {
+    "Beginner": [
+      "SQL",
+      "Excel",
+      "JSON"
+    ],
+    "Intermediate": [
+      "PostgreSQL",
+      "MongoDB",
+      "Java"
+    ],
+    "Advanced": [
+      "Machine Learning",
+      "Spring Boot",
+      "Kubernetes"
+    ]
+  },
+  "Agile Coach": {
+    "Beginner": [
+      "Excel",
+      "SQL",
+      "Linux"
+    ],
+    "Intermediate": [
+      "Redux",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "Cybersecurity",
+      "Terraform",
+      "CI/CD"
+    ]
+  },
+  "Android Developer": {
+    "Beginner": [
+      "Markdown",
+      "HTML",
+      "Excel"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "Flask",
+      "Redux"
+    ],
+    "Advanced": [
+      "CI/CD",
+      "Terraform",
+      "TensorFlow"
+    ]
+  },
+  "Automation Tester": {
+    "Beginner": [
+      "REST API",
+      "Git",
+      "Excel"
+    ],
+    "Intermediate": [
+      "Flask",
+      "Java",
+      "Docker"
+    ],
+    "Advanced": [
+      "CI/CD",
+      "Spring Boot",
+      "Machine Learning"
+    ]
+  },
+  "BI Developer": {
+    "Beginner": [
+      "JavaScript",
+      "Linux",
+      "SQL"
+    ],
+    "Intermediate": [
+      "Firebase",
+      "Python",
+      "MongoDB"
+    ],
+    "Advanced": [
+      "Kubernetes",
+      "Spring Boot",
+      "Machine Learning"
+    ]
+  },
+  "Backend Developer": {
+    "Beginner": [
+      "REST API",
+      "JavaScript",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Redux",
+      "Firebase",
+      "Docker"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "CI/CD",
+      "Machine Learning"
+    ]
+  },
+  "Big Data Engineer": {
+    "Beginner": [
+      "Git",
+      "SQL",
+      "Excel"
+    ],
+    "Intermediate": [
+      "Java",
+      "Firebase",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "Cybersecurity",
+      "Kubernetes",
+      "TensorFlow"
+    ]
+  },
+  "Bioinformatics Scientist": {
+    "Beginner": [
+      "CSS",
+      "JavaScript",
+      "Excel"
+    ],
+    "Intermediate": [
+      "Redux",
+      "Firebase",
+      "Node.js"
+    ],
+    "Advanced": [
+      "Kubernetes",
+      "Cybersecurity",
+      "CI/CD"
+    ]
+  },
+  "Blockchain Developer": {
+    "Beginner": [
+      "JSON",
+      "Markdown",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Redux",
+      "Node.js",
+      "Firebase"
+    ],
+    "Advanced": [
+      "Cybersecurity",
+      "CI/CD",
+      "Spring Boot"
+    ]
+  },
+  "Business Analyst": {
+    "Beginner": [
+      "Linux",
+      "Markdown",
+      "HTML"
+    ],
+    "Intermediate": [
+      "Python",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "CI/CD",
+      "Machine Learning"
+    ]
+  },
+  "CRM Consultant": {
+    "Beginner": [
+      "Excel",
+      "CSS",
+      "REST API"
+    ],
+    "Intermediate": [
+      "Java",
+      "Redux",
+      "Firebase"
+    ],
+    "Advanced": [
+      "TensorFlow",
+      "GraphQL",
+      "NLP"
+    ]
+  },
+  "Cloud Consultant": {
+    "Beginner": [
+      "SQL",
+      "HTML",
+      "JSON"
+    ],
+    "Intermediate": [
+      "PostgreSQL",
+      "Node.js",
+      "MongoDB"
+    ],
+    "Advanced": [
+      "CI/CD",
+      "GraphQL",
+      "NLP"
+    ]
+  },
+  "Cloud Engineer": {
+    "Beginner": [
+      "Linux",
+      "Git",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "PostgreSQL",
+      "Redux",
+      "Flask"
+    ],
+    "Advanced": [
+      "Kubernetes",
+      "TensorFlow",
+      "GraphQL"
+    ]
+  },
+  "Cloud Solutions Architect": {
+    "Beginner": [
+      "HTML",
+      "JSON",
+      "REST API"
+    ],
+    "Intermediate": [
+      "MongoDB",
+      "Flask",
+      "Python"
+    ],
+    "Advanced": [
+      "GraphQL",
+      "NLP",
+      "Machine Learning"
+    ]
+  },
+  "Content Strategist": {
+    "Beginner": [
+      "JSON",
+      "Excel",
+      "Markdown"
+    ],
+    "Intermediate": [
+      "MongoDB",
+      "Flask",
+      "Docker"
+    ],
+    "Advanced": [
+      "NLP",
+      "Terraform",
+      "GraphQL"
+    ]
+  },
+  "Customer Success Manager": {
+    "Beginner": [
+      "JavaScript",
+      "HTML",
+      "Git"
+    ],
+    "Intermediate": [
+      "Docker",
+      "PostgreSQL",
+      "Java"
+    ],
+    "Advanced": [
+      "Cybersecurity",
+      "Terraform",
+      "TensorFlow"
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "Beginner": [
+      "JSON",
+      "SQL",
+      "HTML"
+    ],
+    "Intermediate": [
+      "Python",
+      "Flask",
+      "Firebase"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "Spring Boot",
+      "GraphQL"
+    ]
+  },
+  "Data Analyst": {
+    "Beginner": [
+      "CSS",
+      "JavaScript",
+      "Excel"
+    ],
+    "Intermediate": [
+      "Redux",
+      "Node.js",
+      "Python"
+    ],
+    "Advanced": [
+      "CI/CD",
+      "Cybersecurity",
+      "Terraform"
+    ]
+  },
+  "Data Engineer": {
+    "Beginner": [
+      "REST API",
+      "JSON",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Flask",
+      "MongoDB",
+      "Node.js"
+    ],
+    "Advanced": [
+      "Terraform",
+      "Machine Learning",
+      "Spring Boot"
+    ]
+  },
+  "Data Scientist": {
+    "Beginner": [
+      "Linux",
+      "JSON",
+      "Excel"
+    ],
+    "Intermediate": [
+      "Firebase",
+      "MongoDB",
+      "Node.js"
+    ],
+    "Advanced": [
+      "CI/CD",
+      "Machine Learning",
+      "Cybersecurity"
+    ]
+  },
+  "Database Administrator": {
+    "Beginner": [
+      "Excel",
+      "HTML",
+      "SQL"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "Python",
+      "Docker"
+    ],
+    "Advanced": [
+      "Spring Boot",
+      "BigQuery",
+      "CI/CD"
+    ]
+  },
+  "Deep Learning Engineer": {
+    "Beginner": [
+      "JSON",
+      "SQL",
+      "Excel"
+    ],
+    "Intermediate": [
+      "React",
+      "PostgreSQL",
+      "Firebase"
+    ],
+    "Advanced": [
+      "Spring Boot",
+      "GraphQL",
+      "TensorFlow"
+    ]
+  },
+  "DevOps Engineer": {
+    "Beginner": [
+      "JSON",
+      "SQL",
+      "Markdown"
+    ],
+    "Intermediate": [
+      "Java",
+      "Node.js",
+      "Flask"
+    ],
+    "Advanced": [
+      "TensorFlow",
+      "NLP",
+      "Machine Learning"
+    ]
+  },
+  "DevRel Engineer": {
+    "Beginner": [
+      "REST API",
+      "HTML",
+      "SQL"
+    ],
+    "Intermediate": [
+      "Java",
+      "PostgreSQL",
+      "Python"
+    ],
+    "Advanced": [
+      "Kubernetes",
+      "GraphQL",
+      "NLP"
+    ]
+  },
+  "Digital Marketing Specialist": {
+    "Beginner": [
+      "Git",
+      "CSS",
+      "HTML"
+    ],
+    "Intermediate": [
+      "Java",
+      "Firebase",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "TensorFlow",
+      "GraphQL",
+      "Kubernetes"
+    ]
+  },
+  "ETL Developer": {
+    "Beginner": [
+      "Excel",
+      "Git",
+      "REST API"
+    ],
+    "Intermediate": [
+      "Java",
+      "Python",
+      "Node.js"
+    ],
+    "Advanced": [
+      "Cybersecurity",
+      "NLP",
+      "Kubernetes"
+    ]
+  },
+  "Ecommerce Developer": {
+    "Beginner": [
+      "SQL",
+      "JavaScript",
+      "Linux"
+    ],
+    "Intermediate": [
+      "Flask",
+      "Node.js",
+      "React"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "GraphQL",
+      "CI/CD"
+    ]
+  },
+  "Email Marketing Manager": {
+    "Beginner": [
+      "Markdown",
+      "JavaScript",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Flask",
+      "Firebase",
+      "Python"
+    ],
+    "Advanced": [
+      "TensorFlow",
+      "Kubernetes",
+      "Terraform"
+    ]
+  },
+  "Embedded Systems Engineer": {
+    "Beginner": [
+      "JavaScript",
+      "REST API",
+      "HTML"
+    ],
+    "Intermediate": [
+      "Python",
+      "MongoDB",
+      "Flask"
+    ],
+    "Advanced": [
+      "Machine Learning",
+      "GraphQL",
+      "Kubernetes"
+    ]
+  },
+  "Ethical Hacker": {
+    "Beginner": [
+      "Markdown",
+      "Linux",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "Spring Boot",
+      "GraphQL"
+    ]
+  },
+  "Flutter Developer": {
+    "Beginner": [
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "Firebase",
+      "Flask"
+    ],
+    "Advanced": [
+      "NLP",
+      "BigQuery",
+      "CI/CD"
+    ]
+  },
+  "Frontend Architect": {
+    "Beginner": [
+      "HTML",
+      "Linux",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Docker",
+      "Redux",
+      "Firebase"
+    ],
+    "Advanced": [
+      "Machine Learning",
+      "Spring Boot",
+      "CI/CD"
+    ]
+  },
+  "Frontend Developer": {
+    "Beginner": [
+      "REST API",
+      "Linux",
+      "Excel"
+    ],
+    "Intermediate": [
+      "Python",
+      "Flask",
+      "Redux"
+    ],
+    "Advanced": [
+      "TensorFlow",
+      "BigQuery",
+      "Machine Learning"
+    ]
+  },
+  "Fullstack Developer": {
+    "Beginner": [
+      "JavaScript",
+      "Markdown",
+      "SQL"
+    ],
+    "Intermediate": [
+      "React",
+      "MongoDB",
+      "Java"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "TensorFlow",
+      "CI/CD"
+    ]
+  },
+  "Game Developer": {
+    "Beginner": [
+      "Git",
+      "Excel",
+      "HTML"
+    ],
+    "Intermediate": [
+      "PostgreSQL",
+      "Python",
+      "Node.js"
+    ],
+    "Advanced": [
+      "NLP",
+      "Machine Learning",
+      "Terraform"
+    ]
+  },
+  "Hardware Engineer": {
+    "Beginner": [
+      "JavaScript",
+      "REST API",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Redux",
+      "PostgreSQL",
+      "Firebase"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "Terraform",
+      "CI/CD"
+    ]
+  },
+  "HubSpot Developer": {
+    "Beginner": [
+      "CSS",
+      "REST API",
+      "Git"
+    ],
+    "Intermediate": [
+      "Redux",
+      "Docker",
+      "Flask"
+    ],
+    "Advanced": [
+      "Cybersecurity",
+      "BigQuery",
+      "TensorFlow"
+    ]
+  },
+  "IT Support Specialist": {
+    "Beginner": [
+      "Git",
+      "HTML",
+      "JSON"
+    ],
+    "Intermediate": [
+      "Python",
+      "Java",
+      "MongoDB"
+    ],
+    "Advanced": [
+      "Terraform",
+      "BigQuery",
+      "TensorFlow"
+    ]
+  },
+  "Information Security Analyst": {
+    "Beginner": [
+      "Excel",
+      "REST API",
+      "Markdown"
+    ],
+    "Intermediate": [
+      "Redux",
+      "Node.js",
+      "Java"
+    ],
+    "Advanced": [
+      "TensorFlow",
+      "Machine Learning",
+      "Kubernetes"
+    ]
+  },
+  "Interaction Designer": {
+    "Beginner": [
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "React",
+      "MongoDB"
+    ],
+    "Advanced": [
+      "GraphQL",
+      "Kubernetes",
+      "Cybersecurity"
+    ]
+  },
+  "Kubernetes Engineer": {
+    "Beginner": [
+      "Excel",
+      "CSS",
+      "Markdown"
+    ],
+    "Intermediate": [
+      "React",
+      "Firebase",
+      "Python"
+    ],
+    "Advanced": [
+      "Terraform",
+      "Machine Learning",
+      "Cybersecurity"
+    ]
+  },
+  "ML Engineer": {
+    "Beginner": [
+      "Markdown",
+      "SQL",
+      "REST API"
+    ],
+    "Intermediate": [
+      "Firebase",
+      "Node.js",
+      "Python"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "TensorFlow",
+      "Cybersecurity"
+    ]
+  },
+  "Manual Tester": {
+    "Beginner": [
+      "Markdown",
+      "SQL",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Python",
+      "React",
+      "Firebase"
+    ],
+    "Advanced": [
+      "Spring Boot",
+      "CI/CD",
+      "GraphQL"
+    ]
+  },
+  "Middleware Developer": {
+    "Beginner": [
+      "HTML",
+      "JSON",
+      "Linux"
+    ],
+    "Intermediate": [
+      "Flask",
+      "React",
+      "Java"
+    ],
+    "Advanced": [
+      "Kubernetes",
+      "Cybersecurity",
+      "Machine Learning"
+    ]
+  },
+  "Mobile App Developer": {
+    "Beginner": [
+      "JavaScript",
+      "SQL",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "Redux",
+      "React"
+    ],
+    "Advanced": [
+      "Spring Boot",
+      "Cybersecurity",
+      "NLP"
+    ]
+  },
+  "Mobile UI Designer": {
+    "Beginner": [
+      "JSON",
+      "Git",
+      "Linux"
+    ],
+    "Intermediate": [
+      "PostgreSQL",
+      "Docker",
+      "Python"
+    ],
+    "Advanced": [
+      "Terraform",
+      "NLP",
+      "Spring Boot"
+    ]
+  },
+  "NLP Engineer": {
+    "Beginner": [
+      "Git",
+      "Markdown",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "Firebase",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "Terraform",
+      "NLP",
+      "Kubernetes"
+    ]
+  },
+  "Network Engineer": {
+    "Beginner": [
+      "REST API",
+      "Markdown",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Docker",
+      "Java",
+      "Redux"
+    ],
+    "Advanced": [
+      "NLP",
+      "Spring Boot",
+      "Machine Learning"
+    ]
+  },
+  "Penetration Tester": {
+    "Beginner": [
+      "Linux",
+      "CSS",
+      "HTML"
+    ],
+    "Intermediate": [
+      "PostgreSQL",
+      "Docker",
+      "Java"
+    ],
+    "Advanced": [
+      "Spring Boot",
+      "TensorFlow",
+      "NLP"
+    ]
+  },
+  "Platform Engineer": {
+    "Beginner": [
+      "SQL",
+      "Linux",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Redux",
+      "Flask",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "Spring Boot",
+      "Kubernetes",
+      "GraphQL"
+    ]
+  },
+  "Power BI Developer": {
+    "Beginner": [
+      "HTML",
+      "SQL",
+      "JSON"
+    ],
+    "Intermediate": [
+      "MongoDB",
+      "Redux",
+      "Node.js"
+    ],
+    "Advanced": [
+      "CI/CD",
+      "TensorFlow",
+      "Cybersecurity"
+    ]
+  },
+  "Product Designer": {
+    "Beginner": [
+      "HTML",
+      "Markdown",
+      "Excel"
+    ],
+    "Intermediate": [
+      "Docker",
+      "Redux",
+      "Java"
+    ],
+    "Advanced": [
+      "Spring Boot",
+      "Kubernetes",
+      "NLP"
+    ]
+  },
+  "Product Manager": {
+    "Beginner": [
+      "Linux",
+      "CSS",
+      "Markdown"
+    ],
+    "Intermediate": [
+      "Flask",
+      "Node.js",
+      "Docker"
+    ],
+    "Advanced": [
+      "NLP",
+      "Machine Learning",
+      "BigQuery"
+    ]
+  },
+  "Project Manager": {
+    "Beginner": [
+      "REST API",
+      "JSON",
+      "Excel"
+    ],
+    "Intermediate": [
+      "MongoDB",
+      "Flask",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "Machine Learning",
+      "TensorFlow",
+      "Spring Boot"
+    ]
+  },
+  "QA Engineer": {
+    "Beginner": [
+      "Markdown",
+      "Linux",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Flask",
+      "Firebase",
+      "React"
+    ],
+    "Advanced": [
+      "CI/CD",
+      "TensorFlow",
+      "Kubernetes"
+    ]
+  },
+  "React Native Developer": {
+    "Beginner": [
+      "JavaScript",
+      "REST API",
+      "SQL"
+    ],
+    "Intermediate": [
+      "Firebase",
+      "Python",
+      "Flask"
+    ],
+    "Advanced": [
+      "Kubernetes",
+      "BigQuery",
+      "NLP"
+    ]
+  },
+  "Release Engineer": {
+    "Beginner": [
+      "JSON",
+      "SQL",
+      "HTML"
+    ],
+    "Intermediate": [
+      "MongoDB",
+      "PostgreSQL",
+      "Node.js"
+    ],
+    "Advanced": [
+      "NLP",
+      "Kubernetes",
+      "CI/CD"
+    ]
+  },
+  "Robotics Engineer": {
+    "Beginner": [
+      "HTML",
+      "Excel",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "Advanced": [
+      "Kubernetes",
+      "TensorFlow",
+      "Cybersecurity"
+    ]
+  },
+  "SDET": {
+    "Beginner": [
+      "Linux",
+      "JSON",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Firebase",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "Spring Boot",
+      "BigQuery",
+      "NLP"
+    ]
+  },
+  "SEO Expert": {
+    "Beginner": [
+      "Excel",
+      "CSS",
+      "Markdown"
+    ],
+    "Intermediate": [
+      "PostgreSQL",
+      "Python",
+      "React"
+    ],
+    "Advanced": [
+      "NLP",
+      "GraphQL",
+      "BigQuery"
+    ]
+  },
+  "Salesforce Admin": {
+    "Beginner": [
+      "HTML",
+      "Excel",
+      "Linux"
+    ],
+    "Intermediate": [
+      "Redux",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "Advanced": [
+      "GraphQL",
+      "Machine Learning",
+      "Cybersecurity"
+    ]
+  },
+  "Salesforce Developer": {
+    "Beginner": [
+      "HTML",
+      "Markdown",
+      "Excel"
+    ],
+    "Intermediate": [
+      "Docker",
+      "Node.js",
+      "MongoDB"
+    ],
+    "Advanced": [
+      "Machine Learning",
+      "Cybersecurity",
+      "NLP"
+    ]
+  },
+  "Scrum Master": {
+    "Beginner": [
+      "Linux",
+      "Git",
+      "SQL"
+    ],
+    "Intermediate": [
+      "MongoDB",
+      "React",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "Machine Learning",
+      "GraphQL"
+    ]
+  },
+  "Security Engineer": {
+    "Beginner": [
+      "Markdown",
+      "JSON",
+      "REST API"
+    ],
+    "Intermediate": [
+      "Firebase",
+      "Redux",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "Terraform",
+      "Spring Boot"
+    ]
+  },
+  "Service Desk Analyst": {
+    "Beginner": [
+      "CSS",
+      "REST API",
+      "Git"
+    ],
+    "Intermediate": [
+      "PostgreSQL",
+      "Java",
+      "Firebase"
+    ],
+    "Advanced": [
+      "GraphQL",
+      "BigQuery",
+      "CI/CD"
+    ]
+  },
+  "Simulation Engineer": {
+    "Beginner": [
+      "Git",
+      "SQL",
+      "REST API"
+    ],
+    "Intermediate": [
+      "Flask",
+      "React",
+      "Python"
+    ],
+    "Advanced": [
+      "Kubernetes",
+      "Machine Learning",
+      "Cybersecurity"
+    ]
+  },
+  "Site Reliability Engineer": {
+    "Beginner": [
+      "Markdown",
+      "Linux",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Flask",
+      "Java",
+      "React"
+    ],
+    "Advanced": [
+      "TensorFlow",
+      "CI/CD",
+      "Spring Boot"
+    ]
+  },
+  "Software Architect": {
+    "Beginner": [
+      "JSON",
+      "Git",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Docker",
+      "Node.js",
+      "Python"
+    ],
+    "Advanced": [
+      "CI/CD",
+      "NLP",
+      "Terraform"
+    ]
+  },
+  "Solutions Engineer": {
+    "Beginner": [
+      "HTML",
+      "CSS",
+      "Markdown"
+    ],
+    "Intermediate": [
+      "Docker",
+      "PostgreSQL",
+      "Java"
+    ],
+    "Advanced": [
+      "Spring Boot",
+      "Terraform",
+      "TensorFlow"
+    ]
+  },
+  "Statistical Programmer": {
+    "Beginner": [
+      "Git",
+      "Excel",
+      "Markdown"
+    ],
+    "Intermediate": [
+      "Flask",
+      "Firebase",
+      "Redux"
+    ],
+    "Advanced": [
+      "Terraform",
+      "Cybersecurity",
+      "GraphQL"
+    ]
+  },
+  "System Administrator": {
+    "Beginner": [
+      "JSON",
+      "Markdown",
+      "HTML"
+    ],
+    "Intermediate": [
+      "Python",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "Advanced": [
+      "GraphQL",
+      "Terraform",
+      "Kubernetes"
+    ]
+  },
+  "Tableau Developer": {
+    "Beginner": [
+      "JSON",
+      "JavaScript",
+      "Git"
+    ],
+    "Intermediate": [
+      "Redux",
+      "Flask",
+      "Docker"
+    ],
+    "Advanced": [
+      "Terraform",
+      "CI/CD",
+      "Cybersecurity"
+    ]
+  },
+  "Technical Support Engineer": {
+    "Beginner": [
+      "Excel",
+      "REST API",
+      "SQL"
+    ],
+    "Intermediate": [
+      "React",
+      "Python",
+      "MongoDB"
+    ],
+    "Advanced": [
+      "Machine Learning",
+      "GraphQL",
+      "NLP"
+    ]
+  },
+  "Technical Writer": {
+    "Beginner": [
+      "Markdown",
+      "SQL",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Firebase",
+      "PostgreSQL",
+      "Redux"
+    ],
+    "Advanced": [
+      "Spring Boot",
+      "GraphQL",
+      "BigQuery"
+    ]
+  },
+  "UI UX Designer": {
+    "Beginner": [
+      "JSON",
+      "REST API",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Java",
+      "Flask",
+      "PostgreSQL"
+    ],
+    "Advanced": [
+      "Machine Learning",
+      "GraphQL",
+      "NLP"
+    ]
+  },
+  "Unity Developer": {
+    "Beginner": [
+      "Excel",
+      "CSS",
+      "Markdown"
+    ],
+    "Intermediate": [
+      "React",
+      "Docker",
+      "Java"
+    ],
+    "Advanced": [
+      "BigQuery",
+      "CI/CD",
+      "Kubernetes"
+    ]
+  },
+  "Unreal Engine Developer": {
+    "Beginner": [
+      "Git",
+      "Linux",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Flask",
+      "Node.js",
+      "Python"
+    ],
+    "Advanced": [
+      "TensorFlow",
+      "Terraform",
+      "Machine Learning"
+    ]
+  },
+  "VR AR Developer": {
+    "Beginner": [
+      "Markdown",
+      "JavaScript",
+      "REST API"
+    ],
+    "Intermediate": [
+      "React",
+      "Docker",
+      "Java"
+    ],
+    "Advanced": [
+      "Machine Learning",
+      "TensorFlow",
+      "Kubernetes"
+    ]
+  },
+  "Visual Designer": {
+    "Beginner": [
+      "Markdown",
+      "CSS",
+      "SQL"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "Advanced": [
+      "Machine Learning",
+      "Terraform",
+      "NLP"
+    ]
+  },
+  "Voice Interface Designer": {
+    "Beginner": [
+      "Markdown",
+      "JavaScript",
+      "Linux"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "Advanced": [
+      "CI/CD",
+      "TensorFlow",
+      "Terraform"
+    ]
+  },
+  "Web Developer": {
+    "Beginner": [
+      "Markdown",
+      "Excel",
+      "CSS"
+    ],
+    "Intermediate": [
+      "Node.js",
+      "Java",
+      "Docker"
+    ],
+    "Advanced": [
+      "NLP",
+      "Kubernetes",
+      "Spring Boot"
+    ]
+  },
+  "WordPress Developer": {
+    "Beginner": [
+      "HTML",
+      "Linux",
+      "JSON"
+    ],
+    "Intermediate": [
+      "MongoDB",
+      "Flask",
+      "Redux"
+    ],
+    "Advanced": [
+      "Machine Learning",
+      "CI/CD",
+      "Kubernetes"
+    ]
+  },
+  "iOS Developer": {
+    "Beginner": [
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ],
+    "Intermediate": [
+      "Python",
+      "Flask",
+      "Redux"
+    ],
+    "Advanced": [
+      "TensorFlow",
+      "GraphQL",
+      "Spring Boot"
+    ]
+  }
+}
